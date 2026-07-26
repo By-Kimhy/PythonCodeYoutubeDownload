@@ -1,0 +1,152 @@
+[
+  {
+    "model": "website1.category",
+    "pk": 1,
+    "fields": {
+      "name": "Work"
+    }
+  },
+  {
+    "model": "website1.category",
+    "pk": 2,
+    "fields": {
+      "name": "Personal"
+    }
+  },
+  {
+    "model": "website1.category",
+    "pk": 3,
+    "fields": {
+      "name": "Fitness"
+    }
+  },
+  {
+    "model": "website1.category",
+    "pk": 4,
+    "fields": {
+      "name": "Learning"
+    }
+  },
+  {
+    "model": "website1.category",
+    "pk": 5,
+    "fields": {
+      "name": "Shopping"
+    }
+  },
+  {
+    "model": "website1.category",
+    "pk": 6,
+    "fields": {
+      "name": "Home"
+    }
+  },
+  {
+    "model": "website1.category",
+    "pk": 7,
+    "fields": {
+      "name": "Finance"
+    }
+  },
+  {
+    "model": "website1.category",
+    "pk": 8,
+    "fields": {
+      "name": "Travel"
+    }
+  },
+  {
+    "model": "website1.category",
+    "pk": 9,
+    "fields": {
+      "name": "Health"
+    }
+  },
+  {
+    "model": "website1.category",
+    "pk": 10,
+    "fields": {
+      "name": "Other"
+    }
+  },
+  {
+    "model": "website1.task",
+    "pk": 1,
+    "fields": {
+      "name": "Finish project report",
+      "content": "Summarize project deliverables and finalize report."
+    }
+  },
+  {
+    "model": "website1.task",
+    "pk": 2,
+    "fields": {
+      "name": "Go grocery shopping",
+      "content": "Buy milk, eggs, and bread."
+    }
+  },
+  {
+    "model": "website1.task",
+    "pk": 3,
+    "fields": {
+      "name": "Read a book",
+      "content": "Finish reading chapter 5 of 'Atomic Habits'."
+    }
+  },
+  {
+    "model": "website1.task",
+    "pk": 4,
+    "fields": {
+      "name": "Workout session",
+      "content": "30-minute cardio followed by strength training."
+    }
+  },
+  {
+    "model": "website1.task",
+    "pk": 5,
+    "fields": {
+      "name": "Plan vacation",
+      "content": "Research destinations and book flights."
+    }
+  },
+  {
+    "model": "website1.task",
+    "pk": 6,
+    "fields": {
+      "name": "Clean kitchen",
+      "content": "Wipe counters and mop floor."
+    }
+  },
+  {
+    "model": "website1.task",
+    "pk": 7,
+    "fields": {
+      "name": "Pay bills",
+      "content": "Electricity, internet, and rent."
+    }
+  },
+  {
+    "model": "website1.task",
+    "pk": 8,
+    "fields": {
+      "name": "Team meeting",
+      "content": "Discuss sprint progress and blockers."
+    }
+  },
+  {
+    "model": "website1.task",
+    "pk": 9,
+    "fields": {
+      "name": "Meditate",
+      "content": "10 minutes mindfulness meditation."
+    }
+  },
+  {
+    "model": "website1.task",
+    "pk": 10,
+    "fields": {
+      "name": "Write blog post",
+      "content": "Topic: Productivity hacks for remote work."
+    }
+  }
+]
